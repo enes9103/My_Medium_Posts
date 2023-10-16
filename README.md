@@ -1,6 +1,6 @@
 # My Medium Posts
 
-# Merhaba! 👋
+## Merhaba! 👋
 
 GitHub sayfama hoş geldiniz. Bu sayfa, yazılım geliştirme, teknoloji ve benzeri konulardaki projelerimle ilgili kaynakları ve Medium üzerinde paylaştığım yazıları bir araya getiriyor.
 

@@ -4,8 +4,11 @@
 
 GitHub sayfama hoş geldiniz. Bu sayfa, yazılım geliştirme, teknoloji ve benzeri konulardaki projelerimle ilgili kaynakları ve Medium üzerinde paylaştığım yazıları bir araya getiriyor.
 
-Projelerime ait kaynak ve içerikler için düzenleme çalışmalarım devam etmektedir.
-Mediumdaki tüm yazılarıma ise buradan [Medium profilimden](https://medium.com/@enes9103) göz atabilirsiniz.
+Projelerime ait kaynak ve içerikler için düzenleme çalışmalarım devam etmektedir. 
+
+Mediumdaki tüm yazılarıma ise [Medium profilimden](https://medium.com/@enes9103) göz atabilirsiniz. İsterseniz alttaki linkleri inceleyerek okumak istediğiniz yazıyı görüntüleyebilirsiniz. 
+
+Keyifli okumalar... 📚
 
 <hr>
 <ol>
@@ -30,4 +33,4 @@ Benimle iletişime geçmek veya başka sorularınız varsa, aşağıdaki iletiş
 - LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/enesunlu/)
 
 
-Teşekkür ederim, ziyaret ettiğiniz için mutluyum! 👍
+Teşekkür ederim, ziyaret ettiğiniz için mutluyum! 👍✨

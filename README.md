@@ -7,4 +7,5 @@ https://medium.com/@enes9103
   <li><a href="https://medium.com/@enes9103/advantages-and-usage-of-graphql-queries-in-next-js-projects-c8f8862f7eaf">Advantages and Usage of GraphQL Queries in Next.js Projects</a></li>
   <li><a href="https://medium.com/@enes9103/exploring-software-development-with-solid-principles-de4f49794530">Exploring Software Development with SOLID Principles</a></li>
   <li><a href="https://medium.com/@enes9103/improving-loading-performance-in-react-applications-optimizing-with-lazy-loading-4f27231fc42d">Improving Loading Performance in React Applications: Optimizing with Lazy Loading</a></li>
+  <li><a href="https://medium.com/@enes9103/building-apis-and-handling-authentication-with-next-js-9d4a8b448251">Building APIs and Handling Authentication with Next.js</a></li>
 </ol>

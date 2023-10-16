@@ -14,4 +14,5 @@ https://medium.com/@enes9103
   <li><a href="https://medium.com/@enes9103/building-progressive-web-apps-pwas-with-next-js-a-step-by-step-guide-c69fdaa30c26">Building Progressive Web Apps (PWAs) with Next.js: A Step-by-Step Guide</a></li>
   <li><a href="https://medium.com/@enes9103/modern-api-architectures-series-part-1-soap-simple-object-access-protocol-c356235453e9">Modern API Architectures Series — Part 1: SOAP (Simple Object Access Protocol)</a></li>
   <li><a href="https://medium.com/@enes9103/modern-api-architectures-series-part-2-rest-representational-state-transfer-508f894dc1e8">Modern API Architectures Series — Part 2: REST (Representational State Transfer)</a></li>
+  <li><a href="https://medium.com/@enes9103/modern-api-architectures-series-part-3-graphql-e039b7c3ff3c">Modern API Architectures Series — Part 3: GraphQL</a></li>
 </ol>

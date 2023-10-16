@@ -10,4 +10,5 @@ https://medium.com/@enes9103
   <li><a href="https://medium.com/@enes9103/building-apis-and-handling-authentication-with-next-js-9d4a8b448251">Building APIs and Handling Authentication with Next.js</a></li>
   <li><a href="https://medium.com/@enes9103/handling-react-form-operations-with-formik-and-yup-9b8f1b28427">Handling React Form Operations with Formik and Yup</a></li>
   <li><a href="https://medium.com/@enes9103/building-progressive-web-apps-pwas-with-next-js-a-step-by-step-guide-c69fdaa30c26">Building Progressive Web Apps (PWAs) with Next.js: A Step-by-Step Guide</a></li>
+  <li><a href="https://medium.com/@enes9103/modern-api-architectures-series-part-1-soap-simple-object-access-protocol-c356235453e9">Modern API Architectures Series — Part 1: SOAP (Simple Object Access Protocol)</a></li>
 </ol>
